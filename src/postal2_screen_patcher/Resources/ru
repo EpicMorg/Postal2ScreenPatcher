@@ -1,0 +1,12 @@
+﻿gbx_screen = Настройка экрана
+lbl_width = Ширина
+lbl_high = Высота
+rd_res = Разрешение экрана
+rd_custom = Своё значение
+btn_default_resolution = По умолчанию
+btn_patch = Патч
+chk_backup = Backup
+btn_about = О программе
+btn_brws = Обзор...
+ttip_chk_backup = Зарезервировать настройки
+ttip_btn_patch = Применить изменения

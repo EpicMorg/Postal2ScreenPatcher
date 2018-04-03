@@ -1,0 +1,10 @@
+gbx_screen = Screen setting
+lbl_width = Width
+lbl_high = Height
+rd_res = Screen resolution
+rd_custom = Custom resolution
+btn_default_resolution = Default
+btn_patch = Path
+chk_backup = Backup
+btn_about = About
+btn_brws = Browse...
